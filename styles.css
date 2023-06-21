@@ -4,7 +4,7 @@
     margin-top: 0;
 }
 .index{
-    background-image: url(/images/pexels-george-milton-6953870.jpg);
+    background-image: url(images/pexels-george-milton-6953870.jpg);
     filter: brightness(50%);
     background-size: cover;
     background-position: center center;
@@ -85,7 +85,7 @@ link{
 .image{
     height: 800px;
     width: 50%;
-    background-image: url(/images/pexels-george-milton-6953870.jpg);
+    background-image: url(images/pexels-george-milton-6953870.jpg);
     background-size: cover;
     background-position: center center;
 }
@@ -106,7 +106,7 @@ link{
 }
 .left{
     width: 87%;
-    background-image: url(/images/photo-1585871746932-e133d3fedf4d.jpeg);
+    background-image: url(images/photo-1585871746932-e133d3fedf4d.jpeg);
     height: 800px;
     background-size: cover;
     background-position: center center;
@@ -173,7 +173,7 @@ link{
     padding-top: 20px;
 }
 .trg2{
-    background-image: url(/images/photo-1615458317303-4bb49df432cc.jpeg);
+    background-image: url(images/photo-1615458317303-4bb49df432cc.jpeg);
     height: 800px;
     background-size: cover;
     background-position: center center;
