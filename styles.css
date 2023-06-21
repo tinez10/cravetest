@@ -1,0 +1,233 @@
+.body{
+    background-color: slategrey;
+    margin: 0;
+    margin-top: 0;
+}
+.index{
+    background-image: url(/images/pexels-george-milton-6953870.jpg);
+    filter: brightness(50%);
+    background-size: cover;
+    background-position: center center;
+    height: 800px;
+    width: 100%;
+}
+.logo{
+    background-color: darkslategray;
+    height: 80px;
+    width: 200px;
+    border-radius: 50px;
+    padding-left: 18px;
+    padding-top: 5px;
+    color: aliceblue;
+    filter: 50%;
+    margin-top: 20px;
+}
+.ihead{
+    display: flex;
+}
+.links{
+    padding-top: 30px;
+    padding-left: 700px;
+    gap: 50px;
+    
+}
+.link:hover{
+    color: red;
+}
+link{
+    color: blues;
+    text-decoration: underline;
+}
+.links .link{
+    text-decoration: none;
+}
+.crave{
+    margin-left: 300px;
+    color: whitesmoke;
+    margin-top: 125px;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 200px;
+}
+.crave h2{
+    margin-bottom: 0px;
+}
+.crave p{
+    margin-top: 0px;
+    font-size: small;
+    background-color: aquamarine;
+    color: dimgray;
+    margin-right: 150px;
+}
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: royalblue;
+    margin-left: 1000px;
+  }
+.about{
+    display: flex;
+    height: 800px;
+    width: 100%;
+    margin-top: 5px;
+}
+.para_abt{
+    background-color: #000;
+    color: aliceblue;
+    padding-left: 150px;
+    padding-right: 10px;
+    width: 50%;
+    font-size: 17px;
+    padding-top: 20px;
+}
+.image{
+    height: 800px;
+    width: 50%;
+    background-image: url(/images/pexels-george-milton-6953870.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.vision{
+    display: flex;
+    background-color: #000;
+    color: antiquewhite;
+    height: 800px;
+    width: 100%;
+    margin-top: 5px;
+}
+.right{
+    padding-left: 150px;
+    padding-right: 10px;
+    width: 50%;
+    font-size: 27px;
+    padding-top: 20px;
+}
+.left{
+    width: 87%;
+    background-image: url(/images/photo-1585871746932-e133d3fedf4d.jpeg);
+    height: 800px;
+    background-size: cover;
+    background-position: center center;
+}
+.vision h2{
+    font-size: larger;
+    font-weight: 300;
+    color: #fff;
+    padding-left: 10px;
+}
+.vision h4{
+    font-size: small;
+    background-color: aqua;
+    filter: 50%;
+    color: #000;
+    padding-left: 10px;
+    width: 100px;
+}
+.right p{
+    font-size: 17spx;
+}
+.message{
+    height: 800px;
+    width: 50%;
+    padding-left: 80px;
+    background-color: #000;
+    color: #fff;
+    margin-top: 5px;
+}
+
+.msg{
+    display: flex;
+}
+.leadership{
+    margin: 10PX;
+}
+.climate{
+    margin: 10px;
+}
+.message h4{
+    color: turquoise;
+    background-color: aliceblue;
+}
+.mental{
+    padding-left: 150px;
+}
+.mental h4{
+    width: 150px;
+}
+
+.target{
+    display: flex;
+    color: antiquewhite;
+    height: 800px;
+    width: 100%;
+    margin-top: 5px;
+}
+.trg1{
+    background-color: #000;
+    width: 65%;
+    padding-left: 150px;
+    padding-right: 10px;
+    width: 50%;
+    padding-top: 20px;
+}
+.trg2{
+    background-image: url(/images/photo-1615458317303-4bb49df432cc.jpeg);
+    height: 800px;
+    background-size: cover;
+    background-position: center center;
+    width: 51%;
+}
+.trg1 p{
+    font-size: 25px;
+}
+
+.meet{
+    color: antiquewhite;
+    height: 800px;
+    width: 100%;
+    background-color: black;
+    padding-top: 10px;
+    margin-top: 5px;
+}
+.meethdr h2{
+    align-items: center;
+    margin-left: 40%;
+    font-size: 40px;
+}
+.team{
+    display: flex;
+    color: antiquewhite;
+    height: 800px;
+    width: 100%;
+ 
+    gap: 350px;
+    background-color: black;
+}
+.images{
+    height: 200px;
+    width: 150px;
+    margin-top: 150px;
+}
+.Enock{
+    display: flex;
+    gap: 3px;
+}
+.Enock .bio{
+    background-color: lightseagreen;
+    height: 200px;
+    width: 250px;
+    margin-top: 150px;  
+}
+.Morris{
+    display: flex;
+    gap: 3px;
+}
+.Morris .bio{
+    background-color: gray;
+    height: 200px;
+    width: 350px;
+    margin-top: 150px; 
+}
+
